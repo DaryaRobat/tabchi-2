@@ -1,7 +1,7 @@
 # [TabChi](https://github.com/ariacomp/tabchi)
 * **Install Bot**
 `````sh
-git clone https://github.com/botiiing/css.git && cd css && chmod +x bot && ./bot install
+git clone https://github.com/ariacomp/tabchi.git && cd css && chmod +x bot && ./bot install
 
 ./bot create
 
