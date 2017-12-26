@@ -1,5 +1,5 @@
-# [TabChi](http://yon.ir/4cR3)
+# [TabChi](https://github.com/ariacomp/tabchi)
 * **Install Bot**
 `````sh
-yon.ir/4cR3
+https://github.com/ariacomp/tabchi
 `````
