@@ -1,5 +1,9 @@
-# [TabChi](http://yon.ir/4cR3)
+# [TabChi](https://github.com/ariacomp/tabchi)
 * **Install Bot**
 `````sh
-yon.ir/4cR3
+git clone https://github.com/botiiing/css.git && cd css && chmod +x bot && ./bot install
+
+./bot create
+
+./bot 1
 `````
